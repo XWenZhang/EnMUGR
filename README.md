@@ -1,4 +1,4 @@
-**Learning Robust Representation from Multiple Biological Networks via Network Enhancement and Consistency Regularization **
+**Learning Robust Representation from Multiple Biological Networks via Network Enhancement and Consistency Regularization**
 
 The _run_demo.m_ provides an example for running EnMUGR.
 
