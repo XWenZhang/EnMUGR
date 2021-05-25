@@ -2,7 +2,7 @@
 
 EnMUGR is a method to learn node representations for biological networks. It focuses on extracting effective and consistent information from heterogeneous networks. Low-dimensional representation features learned by the method can be used in general network-based inference problems.
 
-The _run_demo.m_ provides an example for learning representation features with EnMUGR.
+The _run_demo.m_ provides an example for learning representation features with EnMUGR.  
 The _run_simulation.m_ provides a full case for running EnMUGR.
 
 **Dependencies**
